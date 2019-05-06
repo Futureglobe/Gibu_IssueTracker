@@ -5,4 +5,4 @@
 </p>
 
 
-This GitHub repository acts as a public issue tracker for the application Gihuba: The easiest way to backup all your github repositories
+This GitHub repository acts as a public issue tracker for the application Gihuba: The easiest way to backup all your github repositories with just a few clicks
